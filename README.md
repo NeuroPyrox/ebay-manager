@@ -5,8 +5,8 @@ To run it, use a Python shell that won't close once it's done executing, such as
 
 Here's a list of all functions available to the user:
 
-save(file_name: str)
-load(file_name: str)
+save(file_name: str)\n
+load(file_name: str)\n
 reset()
 
 deposit(dollars: float)
