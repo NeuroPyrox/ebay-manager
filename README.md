@@ -1,5 +1,5 @@
 # ebay-manager
-I made this for personal use and I'll probably completely change the functionality in the future, which is why I decided not to unit test anything.
+I made this for personal use and any bugs that occur are obvious, which is why I decided not to unit test anything.
 
 To run it, use a Python shell that won't close once it's done executing, such as IDLE. You have to type in the functions yourself just like in a shell.
 
